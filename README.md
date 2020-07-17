@@ -1,7 +1,7 @@
-![Hey there, I'm Bella. I'm a software developer, testing my limits in tech. Fun fact: I don't know what I am doing right now](https://i.pinimg.com/originals/ce/2b/78/ce2b78a05838ef311c0868bb2fca0494.gif)
-<!--
+
 ### Hi there 👋
 
+<!--
 
 **bellangowi/bellangowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
