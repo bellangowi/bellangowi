@@ -1,4 +1,4 @@
-![Hey there, I'm Bella. I'm a software developer, testing my limits in tech. Fun fact: I don't know what I am doing right now](https://24.media.tumblr.com/6855058ef75ce5876bb2d0e4db8468e9/tumblr_miwoklbgep1qcy0o0o1_500.gif)
+![Hey there, I'm Bella. I'm a software developer, testing my limits in tech. Fun fact: I don't know what I am doing right now](https://i.pinimg.com/originals/ce/2b/78/ce2b78a05838ef311c0868bb2fca0494.gif)
 <!--
 ### Hi there 👋
 
